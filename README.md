@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![alt text]https://static.planetminecraft.com/files/profile_banner/2925936_21.gif
 <!--
 **ColtonHyland/ColtonHyland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
